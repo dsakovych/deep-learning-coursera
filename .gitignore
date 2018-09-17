@@ -9,4 +9,6 @@ __pycache__/
 
 # data
 datasets
-
+*.h5
+*.mat
+weights
