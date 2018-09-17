@@ -8,7 +8,10 @@ __pycache__/
 .idea
 
 # data
-datasets
 *.h5
 *.mat
 weights
+*.npy
+
+# glove weights
+glove.6B.50d.txt
